@@ -79,4 +79,5 @@ This project was collaboratively developed by [Arian Mohammadi](https://github.c
 
 ## Contact
 
-For questions or support, please reach out to [Arian Mohammadi](mailto:arianmohammadi6464@gmail.com).
+For questions or support, please reach out to [Mina Mohammadi](mailto:mina.mohamadi1996mm@gmail.com
+).
